@@ -21,8 +21,8 @@ Features include:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/galactic-fishing.git
-cd galactic-fishing
+git clone https://github.com/HFOXH/Galactic-Fishing-Game.git
+cd galactic-fishing-game
 
 # Install dependencies
 npm install
