@@ -1,29 +1,51 @@
-# bloque-fish
+# Galactic Fishing - Leaderboard & Market Web App
 
-This template should help get you started developing with Vue 3 in Vite.
+> Mini web app for Bloque's technical challenge 🎣
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+This is a single-page application (SPA) built with **Vue.js**, designed to display the **player leaderboard** and the **item market** of the **Galactic Fishing** game in real time.
 
-## Customize configuration
+Features include:
+- PWA (Progressive Web App) with **offline support**.
+- **Responsive design** for mobile, tablet, and 4K desktops.
+- Small, optimized bundle for fast loading.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Technologies Used
 
-## Project Setup
+- [Vue.js](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
 
-```sh
+## Installation and Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/galactic-fishing.git
+cd galactic-fishing
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Start the local development server
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# Build for production
 npm run build
+
+# Preview the production build
+npm run preview
 ```
+## Demo
+https://fishgameleaderboard.netlify.app/
+
+Dark Theme:
+![Screenshot_6](https://github.com/user-attachments/assets/30b76aee-e4e1-48b4-b307-e12f94424d2b)
+
+White Theme:
+![Screenshot_3](https://github.com/user-attachments/assets/ad945294-4f8f-4a80-9552-e055d90baf65)
+
+Market:
+![Screenshot_5](https://github.com/user-attachments/assets/901b041f-bfe4-4d4a-867e-bd6c3d176561)
+
+Made with ❤️ by HFOXH (SC)
