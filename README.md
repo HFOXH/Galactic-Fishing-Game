@@ -7,7 +7,7 @@
 This is a single-page application (SPA) built with **Vue.js**, designed to display the **player leaderboard** and the **item market** of the **Galactic Fishing** game in real time.
 
 Features include:
-- PWA (Progressive Web App) with **offline support**.
+- It **doesn't have offline support** I tried with PWA plugin but it didn't work, other solution is simple: use localstorage to store data, but I don't have time at moment to do it.
 - **Responsive design** for mobile, tablet, and 4K desktops.
 - Small, optimized bundle for fast loading.
 
